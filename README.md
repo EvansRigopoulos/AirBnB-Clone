@@ -10,3 +10,6 @@
 
 * useState for a toggle button
 * useEffect for window resizing
+
+## Deployed with Heroku 
+* Link https://air-bnb-clone-app.herokuapp.com/
