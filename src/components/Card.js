@@ -3,7 +3,7 @@ import { FaStar } from 'react-icons/fa';
 import { useState } from 'react';
 //functional component which is being updated with new cards from the dummy objects passed as props from the parent App component
 function Card(props) {
-  //we have to destructure with props.element since we are passing the entire object from parent component App.js
+  //we have to destructure with props since we are passing the entire object from parent component App.js
   console.log(props);
 
   const {
